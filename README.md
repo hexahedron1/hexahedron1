@@ -1,4 +1,4 @@
-# i do stuff ig
+i barely use github
 
 <!---
 hexahedron1/hexahedron1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
